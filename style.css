@@ -1,0 +1,90 @@
+body {
+  text-align: center;
+  margin: 0;
+}
+
+.logo {
+  width: 200px;
+  margin: 1rem;
+}
+
+.art {
+  width: 50vh;
+  text-align: left;
+  margin: auto;
+}
+
+.art video {
+  width: 100%;
+  border-radius: 5px;
+}
+
+nav {
+  padding: 1rem;
+  background-color: #ffeb3b1c;
+  border-top: 1px solid #e3e369;
+  color: #2272b1;
+  font-size: 1rem;
+  margin-bottom: 3rem;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 2rem;
+  font-size: 50px;
+}
+
+nav span {
+  font-weight: 700;
+}
+
+.autore {
+  display: block;
+  text-align: center;
+  margin-top: 0.7rem;
+}
+
+.feat {
+  padding-left: 1rem;
+  border-left: 1px solid #e3e369;
+  margin-top: 2rem;
+}
+
+.feat span {
+  display: block;
+  color: #bd532b;
+}
+
+.ingredienti {
+  margin-top: 3rem;
+}
+
+.section {
+  border-bottom: 1px solid #0000002b;
+  margin-bottom: 1.5rem;
+}
+
+h2 {
+  font-weight: 100;
+}
+
+.link,
+.feat a {
+  color: #24699f;
+}
+
+ul {
+  margin-bottom: 2rem;
+}
+
+li {
+  margin-bottom: 1rem;
+}
+
+.ingredienti p {
+  font-weight: bold;
+}
+
+.lista {
+  font-weight: bold;
+}
